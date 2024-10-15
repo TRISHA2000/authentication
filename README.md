@@ -25,6 +25,4 @@ npm run start
 ```
 
 ### we are using mailtrap for mail testing purpose, In mailtrap.config.js we are using mailtrap and name section there is my name.
-=======
-# authentication
->>>>>>> 56d5124676fbab135b63567909bd405c367a11d6
+
